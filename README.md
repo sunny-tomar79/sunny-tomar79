@@ -1,16 +1,17 @@
 <h1 align="center">👋 Hi, I'm Sunny Tomar</h1>  
 <p align="center">
-🎓 <b>Data Science & AI Trainee</b> | 📊 <b>Power BI Learner & Machine Learning Enthusiast</b><br>
-💡 Focused on learning from real-world projects and growing step-by-step as a Data Analyst & ML Developer
+🎓 <b>Data Science & AI Graduate</b> | 📊 <b>Power BI Learner & Machine Learning Enthusiast</b><br>
+💡 Passionate about transforming real-world data into actionable insights | 🚀 Lifelong Learner
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 🧠 Currently pursuing a **Diploma in Data Science & Artificial Intelligence** from *Boston Institute of Analytics (Spinnaker Analytics)*  
-- 🧩 Interested in **data cleaning, visualization, and building predictive models**  
-- ⚙️ Learning advanced concepts like **feature engineering, model evaluation, and data storytelling**  
-- 🎯 Goal: To become a skilled **Data Analyst / Junior Data Scientist** and apply my knowledge to solve real-world business problems  
+- 🧠 Completed a **Diploma in Data Science & Artificial Intelligence** from *Boston Institute of Analytics (Spinnaker Analytics)*  
+- 💼 Completed Internship as a **Data Science & AI Intern** at *Spinnaker Analytics*  
+- 🧩 Skilled in **data cleaning, visualization, and predictive modeling**  
+- ⚙️ Experienced in **feature engineering, model evaluation, and storytelling with data**  
+- 🎯 Goal: To work as a **Data Analyst / Junior Data Scientist** and apply my knowledge to solve meaningful business problems  
 
 ---
 
@@ -29,7 +30,7 @@
 ### 💻 Programming & Data Handling  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
-### 🧩 Machine Learning (Beginner to Intermediate)  
+### 🧩 Machine Learning  
 `Classification` • `Regression` • `Feature Engineering` • `Model Evaluation` • `Cross-Validation`
 
 ### 📊 Visualization & Reporting  
@@ -45,8 +46,9 @@
 
 ## 🏅 Certifications & Education  
 
-🎓 **Diploma in Data Science & AI** — *Boston Institute of Analytics*
-📘 **Cisco Verified Certificate: Data Analytics Essentials** — *Cisco Networking Academy*
+🎓 **Diploma in Data Science & AI** — *Boston Institute of Analytics (Spinnaker Analytics)*  
+💼 **Internship: Data Science & AI Intern** — *Spinnaker Analytics*  
+📘 **Cisco Verified Certificate: Data Analytics Essentials** — *Cisco Networking Academy*  
 📘 **English Communication Course** — *Freedom Employability Academy*  
 💡 **Practical Projects:** Solar Energy Prediction, Shooting Incident Analysis, Fraud Detection  
 
@@ -71,3 +73,4 @@
 ---
 
 ⭐ *If you found my work interesting, feel free to star my projects or connect with me on LinkedIn!*
+
